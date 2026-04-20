@@ -31,10 +31,10 @@ I enjoy combining modern web technologies with intelligent systems to create imp
 ## Tech Stack (Web + AI/ML)
 
 ### 🎨 Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,flutter&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Backend
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,python,java,mysql,mongodb,postgres,firebase&theme=dark)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,python,java,mysql,mongodb,postgres,firebase,supabase&theme=dark)](https://skillicons.dev)
 
 ### 🤖 AI/ML Tools
 [![AI ML Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark)](https://skillicons.dev)
