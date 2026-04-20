@@ -78,17 +78,6 @@ I enjoy combining modern web technologies with intelligent systems to create imp
 </p>
 
 ---
-
-## ☕ Support
-
-<p align="center">
-
-[![Buy Me A Coffee]()](https://buymeacoffee.com/yourname)
-
-</p>
-
----
-
 <p align="center">
   <i>✨ Building modern web experiences with AI-driven impact.</i>
 </p>
