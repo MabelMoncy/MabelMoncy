@@ -21,15 +21,6 @@ I enjoy combining modern web technologies with intelligent systems to create imp
 
 ---
 
-## 🚀 What I'm Working On
-
-- 🛠️ Active development on my portfolio-grade web applications  
-- 🤖 Experimenting with AI integrations in real-world web products  
-- 📚 Improving problem-solving, DSA, and system design skills  
-- ☁️ Learning cloud deployment and CI/CD for production-ready apps  
-
----
-
 ## 💡 Core Interests
 
 - 🌐 Modern Web Development (Frontend + Backend)
