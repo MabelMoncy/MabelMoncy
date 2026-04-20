@@ -60,13 +60,21 @@ I enjoy combining modern web technologies with intelligent systems to create imp
 </p>
 
 ---
-
 ## 🤝 Connect with Me
 
 <p align="center">
-[![Connect on:(https://skillicons.dev/icons?i=gmail,linkedin,discordl&theme=dark)](https://skillicons.dev)
-
-
+  <a href="mailto:mabelantomoncy2005@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/mabel-anto-moncy-a58721316" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://discord.com/users/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://www.instagram.com/mabel_moncy/?hl=en" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ---
@@ -75,7 +83,7 @@ I enjoy combining modern web technologies with intelligent systems to create imp
 
 <p align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-70FFCA?style=for-the-badge&logo=buymeacoffee&logoColor=0d1117)](https://buymeacoffee.com/yourname)
+[![Buy Me A Coffee]()](https://buymeacoffee.com/yourname)
 
 </p>
 
