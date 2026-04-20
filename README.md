@@ -2,36 +2,33 @@
 
 # 👋 Hi, I'm Mabel Moncy  
 ### 💻 Web Developer & 🤖 AI Enthusiast
-
-<img src="https://komarev.com/ghpvc/?username=MabelMoncy&label=Profile%20Views&color=70FFCA&style=flat" alt="profile views"/>
-
 </p>
 
 ---
 
-## 🌌 About Me
+## About Me
 
 I’m a passionate **Web Developer & AI Enthusiast** focused on building practical, user-centered applications.  
 I enjoy combining modern web technologies with intelligent systems to create impactful solutions.
 
-- 🔭 Currently building: **full-stack + AI-powered projects**
-- 🌱 Currently learning: **advanced backend architecture, LLM workflows, and MLOps fundamentals**
-- 🤝 Open to collaboration on: **Web apps, AI tools, and open-source projects**
-- 🎯 Goal: **to build secure, scalable, and intelligent software products**
+- Currently building: **full-stack + AI-powered projects**
+- Currently learning: **advanced backend architecture, LLM workflows, and MLOps fundamentals**
+- Open to collaboration on: **Web apps, AI tools, and open-source projects**
+- Goal: **to build secure, scalable, and intelligent software products**
 
 ---
 
-## 💡 Core Interests
+## Core Interests
 
-- 🌐 Modern Web Development (Frontend + Backend)
-- 🧠 Artificial Intelligence & Machine Learning
-- ⚡ Developer Productivity & Automation
-- ☁️ Cloud-native app deployment
-- 🔐 Secure application development
+- Modern Web Development (Frontend + Backend)
+- Artificial Intelligence & Machine Learning
+- Developer Productivity & Automation
+- Cloud-native app deployment
+- Secure application development
 
 ---
 
-## 🧰 Tech Stack (Web + AI/ML)
+## Tech Stack (Web + AI/ML)
 
 ### 🎨 Frontend
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
@@ -64,50 +61,10 @@ I enjoy combining modern web technologies with intelligent systems to create imp
 
 ---
 
-## 🏅 Badges & Certifications
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer"/>
-      <br><sub>Google Developer</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Google%20Cloud-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-      <br><sub>Google Cloud</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AI%20Certification-00C2FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI Certification"/>
-      <br><sub>AI / ML Certification</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud"/>
-      <br><sub>AWS Cloud</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-      <br><sub>TensorFlow</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Generative%20AI-70FFCA?style=for-the-badge&logo=googlegemini&logoColor=black" alt="Generative AI"/>
-      <br><sub>Generative AI</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-00E5FF?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-70FFCA?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://your-portfolio-link.com)
-[![X](https://img.shields.io/badge/X-70FFCA?style=for-the-badge&logo=x&logoColor=0d1117)](https://x.com/your-id)
-[![Instagram](https://img.shields.io/badge/Instagram-00E5FF?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://instagram.com/your-id)
 
 </p>
 
