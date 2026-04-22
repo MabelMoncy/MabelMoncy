@@ -34,13 +34,13 @@ I enjoy combining modern web technologies with intelligent systems to create imp
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,flutter&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Backend and Databases
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,python,java,mysql,mongodb,postgres,firebase,supabase,django,flask&theme=dark)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,python,java,mysql,mongodb,firebase,supabase,django,flask&theme=dark)](https://skillicons.dev)
 
 ### 🤖 AI/ML Tools
 [![AI ML Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark)](https://skillicons.dev)
 
 ### 🔧 Dev Tools
-[![Dev Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,githubactions,vscode,vercel&theme=dark)](https://skillicons.dev)
+[![Dev Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,postman,githubactions,vscode,vercel&theme=dark)](https://skillicons.dev)
 
 ---
 
